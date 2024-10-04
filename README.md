@@ -2,4 +2,4 @@
 -  I’m interested in reading, crochet, and puzzle solving.
 -  I’m currently learning Python and R.
 -  Pronouns: She/Her/Hers
--  Fun fact: I have been a digital artist since I was 12 years old!
+-  Fun fact: I have been crocheting for over three years!
