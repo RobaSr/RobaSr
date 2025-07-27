@@ -1,5 +1,44 @@
--  Hi, I’m @RobaSr
--  I’m interested in reading, crochet, and puzzle solving.
--  I’m currently learning Python and R.
--  Pronouns: She/Her/Hers
--  Fun fact: I have been crocheting for over three years!
+# 👋 Hi, I'm Roba
+
+Welcome to my GitHub! I'm a Data Science student at Boston University with a passion for applying technology to real-world impact—especially at the intersection of AI, public health, and ethical systems design.
+
+## 🌱 About Me
+
+- 🎓 Undergrad @ Boston University | Computing & Data Science (CDS)
+- 🤖 AI + Public Health enthusiast — especially interested in how machine learning can drive equitable health outcomes
+- 💡 Past experiences: 
+  - IT Intern @ Charles River Associates
+  - Break Through Tech AI Fellow @ MIT x Cornell Tech
+  - Underclassmen Rep @ Women in Computer Science (WiCS)
+
+## 🧠 Interests
+
+-AI for Disease Detection — using machine learning to identify patterns in medical imaging and clinical data
+- Predictive Modeling in Public Health — forecasting outbreaks, risk factors, and long-term health outcomes
+- Medical Data Science — working with EHRs, diagnostic datasets, and real-world health data
+- Deep Learning in Healthcare — exploring CNNs for imaging and NLP for medical records
+- Data-Driven Health Equity — designing tools that support accessible and inclusive care
+
+
+## 📂 Featured Projects
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| 🌍 **Healthy Life Expectancy Prediction** | Predicting healthy life expectancy at birth using the World Happiness Dataset. A supervised regression problem using Gradient Boosted Decision Trees to identify key national indicators that influence long-term health outcomes. | `pandas`, `scikit-learn`, `XGBoost`, `matplotlib` |
+| 🫀 **Heart Disease Risk Prediction***(work in progress) | Explored heart disease risk factors using the Kaggle dataset; applied logistic regression, KNN, and decision trees to model outcomes. | `pandas`, `scikit-learn`, `matplotlib` |
+| 📊 **Public Health Dashboard** *(coming soon)* | Visualizing regional health disparities using public datasets and geospatial analysis. | `Plotly`, `pandas`, `GeoPandas` |
+
+
+## 🛠️ Tech Stack
+
+`Python` • `Pandas` • `NumPy` • `scikit-learn` • `TensorFlow` • `Matplotlib` • `Seaborn`
+
+## 📫 Let’s Connect!
+
+- 🔗 [LinkedIn] http://www.linkedin.com/in/roba-srour-49346a259  
+- 📬 srourroba1@gmail.com
+- 💻 Currently building & learning — check back soon for updates!
+
+---
+
+Thanks for stopping by! 🌱
