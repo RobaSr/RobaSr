@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a Data Science student at Boston University with a pas
 
 ## 🧠 Interests
 
--AI for Disease Detection — using machine learning to identify patterns in medical imaging and clinical data
+- AI for Disease Detection — using machine learning to identify patterns in medical imaging and clinical data
 - Predictive Modeling in Public Health — forecasting outbreaks, risk factors, and long-term health outcomes
 - Medical Data Science — working with EHRs, diagnostic datasets, and real-world health data
 - Deep Learning in Healthcare — exploring CNNs for imaging and NLP for medical records
