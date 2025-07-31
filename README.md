@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Roba
 
-Welcome to my GitHub! I'm a Data Science student at Boston University with a passion for applying technology to real-world impact—especially at the intersection of AI, public health, and ethical systems design.
+Welcome to my GitHub! I'm a Data Science student at Boston University with a passion for applying technology to real-world impact, especially at the intersection of AI, public health, and ethical systems design.
 
 ## 🌱 About Me
 
 - 🎓 Undergrad @ Boston University | Computing & Data Science (CDS)
-- 🤖 AI + Public Health enthusiast — especially interested in how machine learning can drive equitable health outcomes
+- 🤖 AI + Public Health enthusiast, especially interested in how machine learning can drive equitable health outcomes
 - 💡 Past experiences: 
   - IT Intern @ Charles River Associates
   - Break Through Tech AI Fellow @ MIT x Cornell Tech
