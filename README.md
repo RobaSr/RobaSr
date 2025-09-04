@@ -24,9 +24,9 @@ Welcome to my GitHub! I'm a Data Science student at Boston University with a pas
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| 🌍 **Healthy Life Expectancy Prediction** | Predicting healthy life expectancy at birth using the World Happiness Dataset. A supervised regression problem using Gradient Boosted Decision Trees to identify key national indicators that influence long-term health outcomes. | `pandas`, `scikit-learn`, `XGBoost`, `matplotlib` |
-| 🫀 **Heart Disease Risk Prediction***(work in progress) | Explored heart disease risk factors using the Kaggle dataset; applied logistic regression, KNN, and decision trees to model outcomes. | `pandas`, `scikit-learn`, `matplotlib` |
-| 📊 **Public Health Dashboard** *(coming soon)* | Visualizing regional health disparities using public datasets and geospatial analysis. | `Plotly`, `pandas`, `GeoPandas` |
+| 🌍 **Healthy Life Expectancy Prediction** | Predicting healthy life expectancy at birth using the World Happiness Dataset. A supervised regression problem using Gradient Boosted Decision Trees to identify key national indicators that influence long-term health outcomes. https://github.com/RobaSr/health-life-expectancy-at-birth-prediction | `pandas`, `scikit-learn`, `XGBoost`, `matplotlib` |
+| 🫀 **Connect Four Game*** | A fully playable Connect Four game with customizable board size, player vs. random AI mode, and win/tie detection logic. Built using object-oriented programming principles. https://github.com/RobaSr/connect-four-game | `python`, `OOP`, `game logic` |
+| 📊 **Public Health Dashboard** *(coming soon)* | Visualizing regional health disparities using public datasets and geospatial analysis. https://github.com/RobaSr/Public-Health-Dashboard | `Plotly`, `pandas`, `GeoPandas` |
 
 
 ## 🛠️ Tech Stack
