@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm a Data Science student at Boston University with a pas
 | Project | Description | Tools |
 |--------|-------------|-------|
 | 🌍 **Healthy Life Expectancy Prediction** | Predicting healthy life expectancy at birth using the World Happiness Dataset. A supervised regression problem using Gradient Boosted Decision Trees to identify key national indicators that influence long-term health outcomes. https://github.com/RobaSr/health-life-expectancy-at-birth-prediction | `pandas`, `scikit-learn`, `XGBoost`, `matplotlib` |
-| 🫀 **Connect Four Game*** | A fully playable Connect Four game with customizable board size, player vs. random AI mode, and win/tie detection logic. Built using object-oriented programming principles. https://github.com/RobaSr/connect-four-game | `python`, `OOP`, `game logic` |
+| 🎮 **Connect Four Game*** | A fully playable Connect Four game with customizable board size, player vs. random AI mode, and win/tie detection logic. Built using object-oriented programming principles. https://github.com/RobaSr/connect-four-game | `python`, `OOP`, `game logic` |
 | 📊 **Public Health Dashboard** *(coming soon)* | Visualizing regional health disparities using public datasets and geospatial analysis. https://github.com/RobaSr/Public-Health-Dashboard | `Plotly`, `pandas`, `GeoPandas` |
 
 
@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm a Data Science student at Boston University with a pas
 
 ## 📫 Let’s Connect!
 
-- 🔗 [LinkedIn] http://www.linkedin.com/in/roba-srour-49346a259  
+- 🔗 [LinkedIn] www.linkedin.com/in/roba-srour
 - 📬 srourroba1@gmail.com
 - 💻 Currently building & learning — check back soon for updates!
 
