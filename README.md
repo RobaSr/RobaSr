@@ -7,12 +7,11 @@ Welcome to my GitHub! I'm a Data Science student at Boston University with a pas
 - 🎓 Undergrad @ Boston University | Computing & Data Science (CDS)
 - 🤖 AI + Public Health experimenter, especially interested in how machine learning can drive equitable health outcomes
 - 💡 Current experiences:
-  - Break Through Tech AI Fellow @ MIT x Cornell Tech
   - External Outreach Director @ Women in Computer Science (BU WiCS)
-  - Pharmacy Technician @ CVS
-- 💡 Past experiences: 
+- 💡 Past experiences:
+  - Software Quality Assurance Engineering @ Accenture
+  - Break Through Tech AI Fellow @ MIT x Cornell Tech
   - IT Intern @ Charles River Associates
-  - Underclassmen Rep @ BU WiCS
 
 ## 🧠 Interests
 
