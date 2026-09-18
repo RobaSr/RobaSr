@@ -1,25 +1,16 @@
-# 👋 Hi, I'm Roba
+# Hi, my name is Roba!
 
-Welcome to my GitHub! I'm a Data Science student at Boston University with a passion for applying technology to real-world impact, especially at the intersection of AI and public health.
+Welcome to my GitHub! I'm a Data Science student at Boston University with a passion for applying technology to real-world impact, especially at the intersection of Machine Learning and Public Health.
 
 ## 🌱 About Me
 
 - 🎓 Undergrad @ Boston University | Computing & Data Science (CDS)
-- 🤖 AI + Public Health experimenter, especially interested in how machine learning can drive equitable health outcomes
 - 💡 Current experiences:
   - External Outreach Director @ Women in Computer Science (BU WiCS)
 - 💡 Past experiences:
-  - Software Quality Assurance Engineering @ Accenture
+  - Software Quality Assurance Intern @ Accenture
   - Break Through Tech AI Fellow @ MIT x Cornell Tech
-  - IT Intern @ Charles River Associates
-
-## 🧠 Interests
-
-- AI for Early Disease Detection — using machine learning to identify patterns in medical imaging and clinical data
-- Predictive Modeling in Public Health — forecasting outbreaks, risk factors, and long-term health outcomes
-- Medical Data Science — working with EHRs, diagnostic datasets, and real-world health data
-- Deep Learning in Healthcare — exploring CNNs for medical imaging and NLP for medical records
-- Data-Driven Health Equity — designing tools that support accessible and inclusive care
+  - IT and Data Management Intern @ Charles River Associates
 
 
 ## 📂 Featured Projects
@@ -33,7 +24,7 @@ Welcome to my GitHub! I'm a Data Science student at Boston University with a pas
 
 ## 🛠️ Tech Stack
 
-`Python` • `Pandas` • `NumPy` • `scikit-learn` • `TensorFlow` • `Matplotlib` • `Seaborn`
+`Python` •`R` • `SQL` • `UIPath` • `Azure DevOps` 
 
 ## 📫 Let’s Connect!
 
